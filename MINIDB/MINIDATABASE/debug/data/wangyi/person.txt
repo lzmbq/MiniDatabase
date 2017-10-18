@@ -1,0 +1,16 @@
+NULL
+2
+id
+2
+4
+4
+NULL
+NULL
+name
+6
+20
+4
+NULL
+NULL
+1
+22/NULL/

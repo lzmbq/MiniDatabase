@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="测试文件">
+      <UniqueIdentifier>{6bb40e83-2ebc-44d3-ac82-76e605243578}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="主函数">
+      <UniqueIdentifier>{66092765-3fca-43f4-9a45-89e294f9bd92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AStack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AVLTree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BST.H">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Column.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DataBase.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DBCmd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Dictionary.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Elem.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FileRW.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Index.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Link.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="List.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MINIDBCmd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyBucket.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyString.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyTable.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Parser.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Table.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TableBody.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TableHead.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TableManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TreeNode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="teatSimSpace.cpp">
+      <Filter>测试文件</Filter>
+    </ClCompile>
+    <ClCompile Include="testAList.cpp">
+      <Filter>测试文件</Filter>
+    </ClCompile>
+    <ClCompile Include="testAVLTree.cpp">
+      <Filter>测试文件</Filter>
+    </ClCompile>
+    <ClCompile Include="testIndex.cpp">
+      <Filter>测试文件</Filter>
+    </ClCompile>
+    <ClCompile Include="testLList.cpp">
+      <Filter>测试文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TestMYSQL.cpp">
+      <Filter>测试文件</Filter>
+    </ClCompile>
+    <ClCompile Include="testTable.cpp">
+      <Filter>测试文件</Filter>
+    </ClCompile>
+    <ClCompile Include="testTableBody.cpp">
+      <Filter>测试文件</Filter>
+    </ClCompile>
+    <ClCompile Include="testTableHead.cpp">
+      <Filter>测试文件</Filter>
+    </ClCompile>
+    <ClCompile Include="testTableManager.cpp">
+      <Filter>测试文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MINIDATABASE.cpp">
+      <Filter>主函数</Filter>
+    </ClCompile>
+    <ClCompile Include="Column.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FileRW.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Index.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyString.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyTable.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TableHead.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TableManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+</Project>
